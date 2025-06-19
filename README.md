@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 My Portfolio Website
 
 ![image](https://github.com/user-attachments/assets/ade45c4b-b2cb-46cb-b8a6-31cad3bd0c5a)
@@ -37,3 +38,25 @@ _This readme is inspired from [Brittany Chiang's github](https://github.com/bchi
 
 ## 📄 License
 This project is open source and available under the [MIT License](https://github.com/Tajmirul/portfolio-2.0/blob/main/LICENSE).
+=======
+# 🚀 Kamran's Portfolio Website
+
+This is my personal developer portfolio built with **Next.js**, **Tailwind CSS**, and **Framer Motion / GSAP**.  
+It showcases my skills, work experience, and the projects I've built.
+
+🔗 **Live site:** [kamran-gul-portfolio.vercel.app](https://kamran-gul-portfolio.vercel.app)  
+🎨 **Design preview (Figma):** [View on Figma](https://www.figma.com/design/56hODoGFDzZfZduBPfQeBg/New-Portfolio?node-id=18-1550&t=73vRMGTW0gspTSND-1)
+
+---
+
+## 🛠 Getting Started
+
+To run this project locally:
+
+```bash
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+>>>>>>> 0028a7e7a5a8c6c76c856ed4382d89b6c21b79ec
