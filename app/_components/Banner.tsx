@@ -57,7 +57,7 @@ const Banner = () => {
                         as="link"
                         target="_blank"
                         rel="noopener noreferrer"
-                        href={'https://wa.me/923352031025'}
+                        href={'https://wa.me/923370765706'}
                         variant="primary"
                         className="mt-9 banner-button slide-up-and-fade"
                     >
