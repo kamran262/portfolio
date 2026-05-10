@@ -41,17 +41,19 @@ const Banner = () => {
             >
                 <div className="max-md:grow max-md:flex flex-col justify-center items-start max-w-[544px]">
                     <h1 className="banner-title slide-up-and-fade leading-[.95] text-6xl sm:text-[80px] font-anton">
-                        <span className="text-primary">FullStack</span>
-                        <br /> <span className="ml-4">DEVELOPER</span>
+                        <span className="text-primary">I Build SaaS</span>
+                        <br /> <span className="ml-4">MVPs Fast</span>
                     </h1>
                     <p className="banner-description slide-up-and-fade mt-6 text-lg text-muted-foreground">
                         Hi! I&apos;m{' '}
                         <span className="font-medium text-foreground">
                             Muhammad Kamran
                         </span>
-                        . A creative FullStack Developer with 3+ years of
-                        experience in building high-performance, scalable, and
-                        responsive web solutions.
+                        &nbsp;— a passionate FullStack Developer help startup
+                        founders and entrepreneurs turn their ideas into working
+                        SaaS products quickly. From dashboards to authentication
+                        and payment systems, I build scalable, ready-to-launch
+                        MVPs so you can validate your idea and attract users.
                     </p>
                     <Button
                         as="link"
