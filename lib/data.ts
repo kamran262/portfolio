@@ -11,7 +11,7 @@ export const GENERAL_INFO = {
 };
 
 export const SOCIAL_LINKS = [
-    { name: 'github', url: 'https://github.com/kamranGul-77' },
+    { name: 'github', url: 'https://github.com/kamran262' },
     { name: 'linkedin', url: 'https://www.linkedin.com/in/mkamran3' },
 ];
 
