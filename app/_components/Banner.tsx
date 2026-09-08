@@ -41,19 +41,20 @@ const Banner = () => {
             >
                 <div className="max-md:grow max-md:flex flex-col justify-center items-start max-w-[544px]">
                     <h1 className="banner-title slide-up-and-fade leading-[.95] text-6xl sm:text-[80px] font-anton">
-                        <span className="text-primary">I Build SaaS</span>
-                        <br /> <span className="ml-4">MVPs Fast</span>
+                        <span className="text-primary">Full-Stack</span>
+                        <br /> <span className="ml-4">Developer</span>
                     </h1>
                     <p className="banner-description slide-up-and-fade mt-6 text-lg text-muted-foreground">
                         Hi! I&apos;m{' '}
                         <span className="font-medium text-foreground">
                             Muhammad Kamran
                         </span>
-                        &nbsp;— a passionate FullStack Developer help startup
-                        founders and entrepreneurs turn their ideas into working
-                        SaaS products quickly. From dashboards to authentication
-                        and payment systems, I build scalable, ready-to-launch
-                        MVPs so you can validate your idea and attract users.
+                        &nbsp;— a passionate Full-Stack Engineer specializing in
+                        the MERN and PERN stacks (MongoDB/PostgreSQL, Express,
+                        React, Node.js). I build scalable web applications,
+                        robust APIs, and modern user experiences, and I am
+                        actively seeking full-time roles and project
+                        opportunities.
                     </p>
                     <Button
                         as="link"
